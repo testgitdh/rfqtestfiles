@@ -1,0 +1,14 @@
+{
+	"ER9001" : {
+	
+		"CompanyCode" : "0001",
+		"PurchaseOrg" : "0001"
+	},
+	
+	"ER9715" : {
+	
+		"CompanyCode" : "1010",
+		"PurchaseOrg" : "1010"
+	}
+
+}
